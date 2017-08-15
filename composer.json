@@ -1,5 +1,5 @@
 {
-  "name": "mageplaza/magento-2-blog-extension",
+  "name": "valentinmanthei/magento-2-blog",
   "description": "Magento 2 Blog extension",
   "require": {
     "mageplaza/module-core": "*"
